@@ -17,7 +17,7 @@
     <IncludeSymbols>True</IncludeSymbols>
     <Nullable>enable</Nullable>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReadmeFile>../README.md</PackageReadmeFile>
     <PackageReleaseNotes>Initial release</PackageReleaseNotes>
     <PackageTags>option;optional;covariant</PackageTags>
     <Product>Dialogs</Product>
