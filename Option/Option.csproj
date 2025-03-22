@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <AssemblyName>Scover.Options</AssemblyName>
-    <Version>1.1.0</Version>
+    <Version>1.2.0</Version>
     <AssemblyVersion>$(Version)</AssemblyVersion>
     <Authors>Scover</Authors>
     <Company>$(Authors)</Company>
