@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <AssemblyName>Scover.Options</AssemblyName>
+    <Version>1.1.0</Version>
     <AssemblyVersion>$(Version)</AssemblyVersion>
     <Authors>Scover</Authors>
     <Company>$(Authors)</Company>
@@ -18,7 +19,7 @@
     <Nullable>enable</Nullable>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageReleaseNotes>Namespace change for usability (previously required Option.Option.Some...), documentation</PackageReleaseNotes>
+    <PackageReleaseNotes>Added more ValueOption variants</PackageReleaseNotes>
     <PackageTags>option;optional;covariant</PackageTags>
     <Product>Dialogs</Product>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
@@ -27,7 +28,6 @@
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <TargetFramework>net8.0</TargetFramework>
     <Title>Option</Title>
-    <Version>1.1.0</Version>
   </PropertyGroup>
   
   <ItemGroup>
